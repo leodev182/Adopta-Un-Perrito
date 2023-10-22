@@ -1,6 +1,6 @@
 import Badge from "react-bootstrap/Badge";
 import Stack from "react-bootstrap/Stack";
-import { Colaboration } from "../Colaboration";
+import { Colaboration } from "../colaboration/Colaboration";
 export const Footer = ({ description }) => {
   return (
     <div

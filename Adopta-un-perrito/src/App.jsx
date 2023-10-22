@@ -65,7 +65,7 @@ function App() {
           textBadge="Adoptar"
         />
       </div>
-      <Footer description="Somos una fundación sin fines de lucro, dedicada al rescate y búsqueda de hogar de animales domésticos; especialmente Perros y Gatos"></Footer>
+      <Footer description="Somos una fundación sin fines de lucro dedicada al rescate y búsqueda de hogar de animales domésticos; especialmente Perros y Gatos."></Footer>
     </>
   );
 }
